@@ -1,9 +1,5 @@
 # 🌟 **DentaCare: Open-Source Dental Clinic Management System**  
 **Empowering dental practices with modern, intuitive patient management**
-
-![deepseek_mermaid_20250612_2048af](https://github.com/user-attachments/assets/98d2a16a-2d20-4c24-97ed-7cfdb8a9136a)
-
-
 ## 🚀 **Why DentaCare?**  
 DentaCare is a **fully functional dental clinic management system** built with Laravel and React.js. Designed as an **educational open-source project**, it demonstrates modern full-stack development patterns while solving real-world healthcare challenges. Perfect for students to learn industry-grade architecture!
 
@@ -91,11 +87,6 @@ public function index()
 - PHP 8.1+  
 - Node.js 18+  
 - MySQL 5.7+  
-## 📦 System Architecture  
-
-![deepseek_mermaid_20250612_134574](https://github.com/user-attachments/assets/4b669084-2873-4f22-b778-85744b46d329)
-
-
 ### Installation  
 ```bash
 # Clone repository
